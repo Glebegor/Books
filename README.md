@@ -14,4 +14,5 @@ csharp docs - http://csharpbook.sakutin.ru/оглавление/
 ## Architecture 
 
 ## Math
-trigonometry - https://old.mccme.ru/free-books/lvovski/trig.pdf
+trigonometry - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
+olympiads - https://www.scribd.com/document/707024204/Wild-Mathing-Matematika
