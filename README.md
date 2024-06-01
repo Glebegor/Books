@@ -16,3 +16,4 @@ csharp docs - http://csharpbook.sakutin.ru/оглавление/
 ## Math
 trigonometry - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
 olympiads - https://www.scribd.com/document/707024204/Wild-Mathing-Matematika
+basic math - https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf
