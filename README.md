@@ -9,11 +9,14 @@ Competitive Programming (en) - https://cses.fi/book/book.pdf <br>
 ## QP
 Quantum mechanic (en) - https://www.fisica.net/mecanica-quantica/Griffiths%20-%20Introduction%20to%20quantum%20mechanics.pdf <br>
 
+## Physic
+basic physic (ru) - https://www.at.alleng.org/d/phys/phys122.html <br>
+
 ## C#
-csharp docs (ru) - http://csharpbook.sakutin.ru/оглавление/
+csharp docs (ru) - http://csharpbook.sakutin.ru/оглавление/ <br>
 
 ## C++
-c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
+c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf <br>
 
 ## Patterns
 
