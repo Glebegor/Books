@@ -20,5 +20,5 @@ c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Prog
 ## Math
 trigonometry (ru) - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
 olympiads (ru)- https://www.scribd.com/document/707024204/Wild-Mathing-Matematika <br>
-basic math (en) - https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf
-MatAn (ru) - https://math.uchicago.edu/~eskin/math203/Analiz%201%20(2012).pdf
+basic math (en) - https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf <br>
+MatAn (ru) - https://math.uchicago.edu/~eskin/math203/Analiz%201%20(2012).pdf <br>
