@@ -18,9 +18,8 @@ csharp docs (ru) - http://csharpbook.sakutin.ru/оглавление/ <br>
 ## C++
 c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf <br>
 
-## Patterns
-
-## Architecture 
+## Patterns & Architecture 
+c# architecture (en) - https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/architecting-modern-web-apps-azure/Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf
 
 ## Math
 trigonometry (ru) - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
