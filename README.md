@@ -4,7 +4,7 @@ This is a repository for my books that I "have/have need/had" read. Also I wrote
 
 ## Algorithms
 algorithms (en) - https://pd.daffodilvarsity.edu.bd/course/material/book-430/pdf_content <br>
-grokaem (ru) - https://github.com/mduisenov/GrokkingAlgorithms/blob/master/Бхаргава%20А.%20-%20Грокаем%20Алгоритмы.%20Иллюстрированное%20пособие%20для%20программистов%20и%20любопытствущих%20-%202017.PDF <br>
+grokaem (ru) - https://www.scribd.com/document/355548373/Grokaem-algoritmy <br>
 Models of computation (en) - https://jeffe.cs.illinois.edu/teaching/algorithms/models/all-models.pdf <br>
 Competitive Programming (en) - https://cses.fi/book/book.pdf <br>
 
