@@ -1,4 +1,6 @@
 # Books
+## Description
+This is a repository for my books that I "have/have need/had" read. Also I wrote a topics of them.
 
 ## Algorithms
 algorithms (en) - https://pd.daffodilvarsity.edu.bd/course/material/book-430/pdf_content <br>
