@@ -24,6 +24,10 @@ c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Prog
 ## Patterns & Architecture 
 c# architecture (en) - https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/architecting-modern-web-apps-azure/Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf
 
+## Data Science
+Python Data Science Handbook (en) - https://archive.org/details/python-data-science-handbook.pdf/page/474/mode/2up
+
+
 ## Math
 trigonometry (ru) - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
 olympiads (ru)- https://www.scribd.com/document/707024204/Wild-Mathing-Matematika <br>
