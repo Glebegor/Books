@@ -15,18 +15,18 @@ Qiskit (en) - https://docs.quantum.ibm.com <br>
 ## Physic
 basic physic (ru) - https://www.at.alleng.org/d/phys/phys122.html <br>
 
-## C#
+## Languages
+### C#
 csharp docs (ru) - http://csharpbook.sakutin.ru/оглавление/ <br>
 
-## C++
+### C++
 c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf <br>
+
+### Python
+Python Data Science Handbook (en) - https://archive.org/details/python-data-science-handbook.pdf/page/474/mode/2up <br>
 
 ## Patterns & Architecture 
 c# architecture (en) - https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/architecting-modern-web-apps-azure/Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf
-
-## Data Science
-Python Data Science Handbook (en) - https://archive.org/details/python-data-science-handbook.pdf/page/474/mode/2up
-
 
 ## Math
 trigonometry (ru) - https://old.mccme.ru/free-books/lvovski/trig.pdf <br>
