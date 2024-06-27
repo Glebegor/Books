@@ -11,6 +11,7 @@ Competitive Programming (en) - https://cses.fi/book/book.pdf <br>
 ## QP
 Quantum mechanic (en) - https://www.fisica.net/mecanica-quantica/Griffiths%20-%20Introduction%20to%20quantum%20mechanics.pdf <br>
 Qiskit (en) - https://docs.quantum.ibm.com <br>
+QML - https://qiskit-community.github.io/qiskit-machine-learning/ <br>
 
 ## Physic
 basic physic (ru) - https://www.at.alleng.org/d/phys/phys122.html <br>
