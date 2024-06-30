@@ -16,6 +16,7 @@ Quantum programming in Depth (en) - https://www.manning.com/books/quantum-progra
 
 ## Physic
 basic physic (ru) - https://www.at.alleng.org/d/phys/phys122.html <br>
+quantum physic (en) - https://www.researchgate.net/profile/Israa-Kamil-Ahmed/publication/342693042_Quantum_Physics/links/5f00d59c45851550508b2e2d/Quantum-Physics.pdf <br>
 
 ## Languages
 ### C#
