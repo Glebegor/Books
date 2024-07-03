@@ -13,6 +13,7 @@ Quantum mechanic (en) - https://www.fisica.net/mecanica-quantica/Griffiths%20-%2
 Qiskit (en) - https://docs.quantum.ibm.com <br>
 QML (en) - https://qiskit-community.github.io/qiskit-machine-learning/ <br>
 Quantum programming in Depth (en) - https://www.manning.com/books/quantum-programming-in-depth <br>
+Quantum physic for programming (en) - https://www-thphys.physics.ox.ac.uk/people/JamesBinney/qb.pdf <br>
 
 ## Physic
 basic physic (ru) - https://www.at.alleng.org/d/phys/phys122.html <br>
