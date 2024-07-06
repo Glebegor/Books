@@ -29,6 +29,9 @@ c basic (en) - http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Prog
 ### Python
 Python Data Science Handbook (en) - https://archive.org/details/python-data-science-handbook.pdf/page/474/mode/2up <br>
 
+### Golang 
+go basic <en> - https://www.golang-book.com/public/pdf/gobook.pdf<br>
+
 ## Patterns & Architecture 
 c# architecture (en) - https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/architecting-modern-web-apps-azure/Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf
 
